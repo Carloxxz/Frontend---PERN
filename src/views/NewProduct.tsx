@@ -45,8 +45,8 @@ export default function NewProduct() {
                 method="POST"
             >
 
-                <ProductForm 
-                
+                <ProductForm
+
                 />
 
                 <input
